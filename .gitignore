@@ -1,0 +1,5 @@
+# OS cruft
+.DS_Store
+Thumbs.db
+System Volume Information/
+*.bak
